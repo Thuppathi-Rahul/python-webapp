@@ -1,4 +1,4 @@
-cat >application.py <<EOL
+cat >rahul.py <<EOL
 from flask import Flask
 app = Flask(__name__)
 
